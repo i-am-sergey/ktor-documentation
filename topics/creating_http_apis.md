@@ -305,7 +305,7 @@ Finally, much like the case of customers, we need to register the routes. Hopefu
 
 ```kotlin
 ```
-{src="snippets/tutorial-http-api/src/main/kotlin/com/example/plugins/Routing.kt" lines="3-14"}
+{src="snippets/tutorial-http-api/src/main/kotlin/com/example/plugins/Routing.kt" lines="1-14"}
 
 Now that we have everything wired up, we can finally start testing our application, and see if everything works as we would expect it to!
 
