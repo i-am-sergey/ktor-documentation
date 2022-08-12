@@ -111,7 +111,7 @@ Finally, we need to load the created configuration at the application startup. O
 
 ```kotlin
 ```
-{src="snippets/tutorial-website-interactive-persistence/src/main/kotlin/com/example/Application.kt" lines="9-13"}
+{src="snippets/tutorial-website-interactive-persistence/src/main/kotlin/com/example/Application.kt" lines="3,8-13"}
 
 
 ## Implement persistence logic {id="persistence_logic"}
